@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/latticeward-banner.svg" width="100%" alt="Latticeward Labs — Ideas, Built Forward" />
+<img src="./assets/latticeward-banner.png" width="100%" alt="Latticeward Labs — Ideas, Built Forward" />
 
 <br />
 
