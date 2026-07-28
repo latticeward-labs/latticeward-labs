@@ -68,9 +68,9 @@ We build reliable foundations that can evolve with the product.
 
 | Project | What it is | Status |
 | --- | --- | :---: |
-| **Music Copilot** | A voice-assisted Android music experience designed to reduce distracting interactions while driving. Its first MVP focuses on local music playback, a low-distraction Driving Mode, and direct Push-to-Talk voice controls. | **In active development** |
+| [**Music Copilot**](https://github.com/latticeward-labs/music-copilot) | A voice-assisted Android music experience designed to reduce distracting interactions while driving. Its first MVP focuses on local music playback, a low-distraction Driving Mode, and direct Push-to-Talk voice controls. | **Figma in progress · Android foundation ready** |
 
-Music Copilot is our current flagship project. The product is still being built and validated; items described as future work are not presented as released capabilities. Detailed product requirements, technical decisions, delivery plans, and testing criteria are maintained in the project repository rather than on this team profile.
+Music Copilot is our current flagship project. The product is still being built and validated; items described as future work are not presented as released capabilities. The canonical Markdown PRD/MVP, technical decisions, delivery plans and testing criteria are maintained in the project repository rather than on this team profile; PDF exports are not requirement authorities.
 
 Future products will appear here as they move from exploration into active development.
 
