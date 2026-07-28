@@ -68,7 +68,7 @@ We build reliable foundations that can evolve with the product.
 
 | Project | What it is | Status |
 | --- | --- | :---: |
-| [**Music Copilot**](https://github.com/latticeward-labs/music-copilot) | A voice-assisted Android music experience designed to reduce distracting interactions while driving. Its first MVP focuses on local music playback, a low-distraction Driving Mode, and direct Push-to-Talk voice controls. | **Figma in progress · Android foundation ready** |
+| [**Music Copilot**](https://github.com/latticeward-labs/music-copilot) | A voice-assisted Android music experience designed to reduce distracting interactions while driving. Its first MVP focuses on local music playback, a low-distraction Driving Mode, and direct Push-to-Talk voice controls. | **Figma in progress · Technical planning ready** |
 
 Music Copilot is our current flagship project. The product is still being built and validated; items described as future work are not presented as released capabilities. The canonical Markdown PRD/MVP, technical decisions, delivery plans and testing criteria are maintained in the project repository rather than on this team profile; PDF exports are not requirement authorities.
 
@@ -124,7 +124,7 @@ DISCOVER  →  DEFINE  →  DESIGN  →  BUILD  →  VERIFY  →  LEARN  →  EV
 
 ## ◎ Team Status
 
-Latticeward Labs is currently an independent, remote-first team in the product-building and validation stage. Our immediate focus is delivering the approved first MVP of Music Copilot while developing a repeatable way to take future ideas from research to reliable release.
+Latticeward Labs is currently an independent, remote-first team in the product-building and validation stage. Our immediate focus is delivering Music Copilot MVP v1.0 while developing a repeatable way to take future ideas from research to reliable release.
 
 Project-specific progress is tracked in its own repository and development board. This profile remains the home for the identity, principles, capabilities, and growing portfolio of the wider team.
 
